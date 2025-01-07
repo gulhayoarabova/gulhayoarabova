@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer from Uzbekis
 
  🔬 Technologies & Tools:
 - **Frontend**: JS, TS, ReactJs, NextJs, Redux, MaterialUi, AntDesign, Socket.io, and many other libs for state management, queries, and form.
-- **Backend**: NodeJs, Express, NestJs, MongoDb, Mongoose, Postgres, Prisma, and Git.
+- **Backend**: NodeJs, Express, NestJs, MongoDb, Mongoose Git.
 
 ---
 
